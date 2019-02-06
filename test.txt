@@ -1,2 +1,3 @@
 This test file ecist in localremoterepo1 in myproject
 After cloning adding content in localremoterepo2 
+Ginni added changes to fetch from RP to LP.
