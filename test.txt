@@ -1,1 +1,2 @@
 This test file ecist in localremoterepo1 in myproject
+After cloning adding content in localremoterepo2 
